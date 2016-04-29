@@ -1,6 +1,6 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react'
+import ReactDOM from 'react-dom'
 
-import Presentation from "./presentation";
+import Presentation from './presentation'
 
-ReactDOM.render(<Presentation/>, document.getElementById("root"));
+ReactDOM.render(<Presentation/>, document.getElementById('root'))
