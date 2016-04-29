@@ -1,6 +1,6 @@
 # Capstone Presentation
 
-Featuring [Carrot](http://carrot.is)'s dashbaord
+Featuring [Carrot](http://carrot.is)'s dashboard
 
 ## Development
 
