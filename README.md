@@ -1,5 +1,7 @@
 # Capstone Presentation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hhsnopek/capstone-presentation.svg)](https://greenkeeper.io/)
+
 Featuring [Carrot](http://carrot.is)'s dashboard
 
 ## Development
